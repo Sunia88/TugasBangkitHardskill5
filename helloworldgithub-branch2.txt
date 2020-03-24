@@ -29,5 +29,5 @@ Vestibulum volutpat pretium libero. Vivamus aliquet elit ac nisl. Donec orci lec
 
 Donec mollis hendrerit risus. Nullam cursus lacinia erat. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Maecenas nec odio et ante tincidunt tempus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam, nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci.
 
-Nambah baris baru buat nunjukin konflik
-Nambah baris baru buat nunjukin konflik baris 2
+Baris ini akan konflik lho
+Baris ini juga akan konflik nomor 2
